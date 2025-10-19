@@ -1,2 +1,0 @@
-# TIC_TAC_TOE
-WELCOME!
